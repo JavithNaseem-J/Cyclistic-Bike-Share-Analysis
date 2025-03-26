@@ -71,12 +71,6 @@ Cyclistic-Bike-Share-Analysis/
    - Visualized findings using Plotly bar charts.
 
 
-## Recommendations
-Based on the analysis, the following strategies could encourage casual riders to become members:
-1. **Weekend-Only Membership**: Offer an affordable annual membership tailored for weekend use to attract casual riders who ride longer on weekends.
-2. **Weekday Promotions**: Highlight cost savings of membership over single/day passes for weekday casual riders through targeted campaigns.
-3. **Loyalty Program**: Introduce a points-based system for casual riders, offering discounts on membership fees to reward frequent usage.
-
 ## How to Run the Analysis
 1. Clone the repository:
    ```bash
