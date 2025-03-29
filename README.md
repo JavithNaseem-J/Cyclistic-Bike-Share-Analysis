@@ -1,4 +1,4 @@
-## Introduction
+## Overview
 Welcome to the Cyclistic bike-share analysis case study! In this project, you’ll dive into the operations of Cyclistic, a fictional bike-share company in Chicago, as a junior data analyst on the marketing team. The company’s leadership believes that increasing annual memberships is key to future success. Your task is to uncover how casual riders and annual members use Cyclistic bikes differently, using data-driven insights to inform a new marketing strategy.
 
 ## Scenario
